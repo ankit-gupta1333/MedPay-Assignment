@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CashPayment</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_text">Continue</string>
+    <string name="Rs">\u20B9</string>
+    <string name="please_enter_bill_amount">Please enter bill amount!</string>
+    <string name="please_enter_phone_number">Please enter phone number!</string>
+    <string name="please_enter_correct_phone_number">Please enter correct phone number!</string>
+    <string name="payment_status">Payment Status</string>
+</resources>
